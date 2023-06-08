@@ -15,7 +15,7 @@ public:
         cout << "Enter PRN: ";
         cin >> PRN;
         cout << "Enter email: ";
-        cin >> e;
+        cin >> e; 
         cout << "Enter number: ";
         cin >> num;
     }
